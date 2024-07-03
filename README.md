@@ -10,7 +10,7 @@ Hi! I'm Matteo Zanellato, an aspiring developer passionate about technology and 
 - **Frameworks and Libraries**: Node.js, Angular 
 - **Tools**: Git, VS Code, SQL, Postman 
 
-### Interests and Goals
+## Interests and Goals
 
 I am excited to continue learning and growing in the field of software development. I have a strong interest in web and mobile application development. My goal is to become a skilled full-stack developer and create innovative solutions that improve people's lives.
 
