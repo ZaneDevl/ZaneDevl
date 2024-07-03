@@ -8,7 +8,7 @@ Hi! I'm Matteo Zanellato, an aspiring developer passionate about technology and 
 ## Skills
 - **Lang**: C#, TypeScript, HTML, CSS 
 - **Frameworks and Libraries**: Node.js, Angular 
-- **Tools**: Git, VS Code, SQL 
+- **Tools**: Git, VS Code, SQL, Postman 
 
 ### Interests and Goals
 
