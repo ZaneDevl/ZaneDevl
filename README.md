@@ -6,9 +6,9 @@
 Hi! I'm Matteo Zanellato, an aspiring developer passionate about technology and innovation. I am a fan of video games, comics, and movies!
 
 ## Skills
-- **Lang**: C#, TypeScript, HTML, CSS (and more to add...)
-- **Frameworks and Libraries**: Node.js, Angular (and more to add...)
-- **Tools**: Git, VS Code, SQL (and more to add...)
+- **Lang**: C#, TypeScript, HTML, CSS 
+- **Frameworks and Libraries**: Node.js, Angular 
+- **Tools**: Git, VS Code, SQL 
 
 ### Interests and Goals
 
